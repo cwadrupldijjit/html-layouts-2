@@ -48,3 +48,32 @@ p {
 .blue {
 	background-color: #3F6AFF;
 }
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	
+	width: 100%;
+	padding: 20px 0;
+	
+	background-color: #424242;
+	
+	color: white;
+	
+	text-align: right;
+}
+
+.menu {
+	width: 700px;
+	margin: 0 auto;
+}
+
+nav {
+	display: inline-block;
+	
+	padding: 0 20px;
+	
+	font-size: 16pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
