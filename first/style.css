@@ -1,0 +1,49 @@
+body {
+	background-color: lightgray;
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	max-width: 700px;
+	min-width: 500px;
+	
+	margin: 10px auto;
+	padding: 25px;
+	
+	background-color: white;
+	
+	border: darkgray 2px solid;
+}
+
+.red {
+	background-color: #E0220F;
+}
+
+.blue {
+	background-color: #2848FF;
+}
+
+.gray {
+	background-color: #2E2E2E;
+}
+
+nav {
+	display: inline-block;
+	
+	width: 200px;
+	height: 100px;
+	margin: 0 15px;
+}
+
+p {
+	margin: 30px 0;
+	font-family: 'Arial', Arial, sans-serif;
+	font-size: 13pt;
+}
+
+.flex {
+	display: flex;
+	
+	height: 150px;
+}
