@@ -44,6 +44,33 @@ p {
 
 .flex {
 	display: flex;
-	
-	height: 150px;
+	margin: 20px 0;
+}
+
+#first-flex {
+	height: 300px;
+}
+
+#first-thinner {
+	flex: 1;
+}
+
+#first-thicker {
+	flex: 2;
+}
+
+#second-flex {
+	height: 100px;
+}
+
+#second-wide {
+	flex: 25;
+}
+
+.second-skinny {
+	flex: 1;
+}
+
+#second-middle {
+	flex: 5;
 }
