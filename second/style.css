@@ -1,3 +1,50 @@
 body {
 	background-color: lightgrey;
+	margin: 0;
+	padding: 0;
+}
+
+article {
+	width: 700px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.card {
+	background-color: white;
+	
+	padding: 25px;
+	margin: 30px 0;
+}
+
+button {
+	border: none;
+	
+	padding: 8px 23px;
+	margin-right: 8px;
+	
+	font-size: 16pt;
+	
+	color: white;
+}
+
+.img-holder {
+	background-color: #424242;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+}
+
+.red {
+	background-color: #C2231A;
+}
+
+.blue {
+	background-color: #3F6AFF;
 }
